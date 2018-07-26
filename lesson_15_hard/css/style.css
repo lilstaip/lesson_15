@@ -1,0 +1,9 @@
+.time {
+	font-family: AdineKirnbergRegular;
+	font-size: 250px;
+	margin: 0 auto;
+	text-align: center;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}

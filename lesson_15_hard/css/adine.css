@@ -1,0 +1,9 @@
+	@font-face {
+			font-family: "AdineKirnbergRegular";
+			src: url("../fonts/AdineKirnbergRegular/AdineKirnbergRegular.eot");
+			src: url("../fonts/AdineKirnbergRegular/AdineKirnbergRegular.eot?#iefix")format("embedded-opentype"),
+			url("../fonts/AdineKirnbergRegular/AdineKirnbergRegular.woff") format("woff"),
+			url("../fonts/AdineKirnbergRegular/AdineKirnbergRegular.ttf") format("truetype");
+			font-style: normal;
+			font-weight: normal;
+	}
